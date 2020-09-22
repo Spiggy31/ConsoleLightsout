@@ -1,0 +1,13 @@
+C:\Dev\LightsOut\LightsOut\bin\Debug\netcoreapp3.1\LightsOut.exe
+C:\Dev\LightsOut\LightsOut\bin\Debug\netcoreapp3.1\LightsOut.deps.json
+C:\Dev\LightsOut\LightsOut\bin\Debug\netcoreapp3.1\LightsOut.runtimeconfig.json
+C:\Dev\LightsOut\LightsOut\bin\Debug\netcoreapp3.1\LightsOut.runtimeconfig.dev.json
+C:\Dev\LightsOut\LightsOut\bin\Debug\netcoreapp3.1\LightsOut.dll
+C:\Dev\LightsOut\LightsOut\bin\Debug\netcoreapp3.1\LightsOut.pdb
+C:\Dev\LightsOut\LightsOut\obj\Debug\netcoreapp3.1\LightsOut.csprojAssemblyReference.cache
+C:\Dev\LightsOut\LightsOut\obj\Debug\netcoreapp3.1\LightsOut.csproj.CoreCompileInputs.cache
+C:\Dev\LightsOut\LightsOut\obj\Debug\netcoreapp3.1\LightsOut.AssemblyInfoInputs.cache
+C:\Dev\LightsOut\LightsOut\obj\Debug\netcoreapp3.1\LightsOut.AssemblyInfo.cs
+C:\Dev\LightsOut\LightsOut\obj\Debug\netcoreapp3.1\LightsOut.dll
+C:\Dev\LightsOut\LightsOut\obj\Debug\netcoreapp3.1\LightsOut.pdb
+C:\Dev\LightsOut\LightsOut\obj\Debug\netcoreapp3.1\LightsOut.genruntimeconfig.cache
